@@ -1,5 +1,6 @@
 # piscine-go
 ### Deep dive into coding, 4 weeks that consist of exercises, tests, projects. Learning fundamentals of Bash and Golang.
+Subjects: https://github.com/01-edu/public/tree/master/subjects
 
 ## Week 1:
 1. Introduction to shell.
