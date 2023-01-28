@@ -2,6 +2,9 @@
 ### Deep dive into coding, 4 weeks that consist of exercises, tests, projects. Learning fundamentals of Bash and Golang.
 Subjects: https://github.com/01-edu/public/tree/master/subjects
 
+## Disclaimer
+`The code was written in May 2021 and does not reflect my current level. Added for historical purposes :)`
+
 ## Week 1:
 1. Introduction to shell.
 2. Introduction to Golang and basic programmation concepts.
